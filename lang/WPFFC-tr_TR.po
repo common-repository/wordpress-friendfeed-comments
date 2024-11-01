@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress friendfeed comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-09 23:47+0200\n"
+"PO-Revision-Date: 2009-02-09 23:56+0200\n"
+"Last-Translator: Gürkan OLUÇ <gurkanoluc.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp_friendfeed_comments.php:373
+#, php-format
+msgid "and other %d people liked this post on friendfeed"
+msgstr "ve %d kullanıcı daha bu yazıyı like etti"
+
+#: ../wp_friendfeed_comments.php:395
+#: ../wp_friendfeed_comments.php:397
+msgid "liked this post"
+msgstr "bu yazıyı like etti"
+
+#: ../wp_friendfeed_comments.php:429
+msgid "To use plugin php_curl extension must be installed on your server"
+msgstr "Eklentiyi kullanabilmek için php_curl extensionunun sunucunuzda kurulu olması gerekmektedir"
+
+#: ../wp_friendfeed_comments.php:441
+msgid "WordPress FriendFeed Comments Options"
+msgstr "WordPress FriendFeed Comments Ayarları"
+
+#: ../wp_friendfeed_comments.php:446
+msgid "FriendFeed Nickname"
+msgstr "FriendFeed Nickname"
+
+#: ../wp_friendfeed_comments.php:450
+msgid "FriendFeed Remote Key"
+msgstr "FriendFeed Remote Key"
+
+#: ../wp_friendfeed_comments.php:454
+msgid "Comments Cache Time"
+msgstr "Yorumların Cache Edilme Süresi"
+
+#: ../wp_friendfeed_comments.php:457
+#: ../wp_friendfeed_comments.php:458
+#: ../wp_friendfeed_comments.php:459
+msgid "Minutes"
+msgstr "Dakika"
+
+#: ../wp_friendfeed_comments.php:460
+msgid "Hour"
+msgstr "Saat"
+
+#: ../wp_friendfeed_comments.php:461
+#: ../wp_friendfeed_comments.php:462
+#: ../wp_friendfeed_comments.php:463
+#: ../wp_friendfeed_comments.php:464
+#: ../wp_friendfeed_comments.php:465
+msgid "Hours"
+msgstr "Saat"
+
+#: ../wp_friendfeed_comments.php:474
+msgid "Send post author's comments to FriendFeed"
+msgstr "Blog yöneticisinin yaptığı yorumları FriendFeed'e ekle"
+
+#: ../wp_friendfeed_comments.php:477
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../wp_friendfeed_comments.php:484
+msgid "Your Blog's FriendFeed Entries"
+msgstr "Blogunuza ait FriendFeed Girdileri"
+
+#: ../wp_friendfeed_comments.php:490
+msgid "Post Title"
+msgstr "Yazı Başlığı"
+
+#: ../wp_friendfeed_comments.php:491
+msgid "FriendFeed ID"
+msgstr "FriendFeed ID"
+
+#: ../wp_friendfeed_comments.php:492
+#: ../wp_friendfeed_comments.php:504
+msgid "Delete"
+msgstr "Sil"
+
+#: ../wp_friendfeed_comments.php:493
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: ../wp_friendfeed_comments.php:504
+msgid "Are you sure?"
+msgstr "Emin Misiniz?"
+
+#: ../wp_friendfeed_comments.php:505
+msgid "Show"
+msgstr "Göster"
+
+#: ../wp_friendfeed_comments.php:511
+msgid "There isn't any entry on FriendFeed yet."
+msgstr "Hiç girdi bulunmuyor"
+
+#: ../wp_friendfeed_comments.php:661
+msgid "Comment deleted!"
+msgstr "Yorum Silindi!"
+
+#: ../wp_friendfeed_comments.php:685
+msgid "FriendFeed Comments For This Post"
+msgstr "Bu yazı için FriendFeed üzerinde yapılan yorumlar"
+
+#: ../wp_friendfeed_comments.php:689
+msgid "ID"
+msgstr "ID"
+
+#: ../wp_friendfeed_comments.php:690
+msgid "Comment"
+msgstr "Yorumlar"
+
+#: ../wp_friendfeed_comments.php:691
+msgid "Comment Date"
+msgstr "Yorum Tarihi"
+
+#: ../wp_friendfeed_comments.php:712
+msgid "There isn't any comment"
+msgstr "Hiç yorum bulunmuyor"
+
+#: ../wp_friendfeed_comments.php:734
+msgid "Your options saved!"
+msgstr "Ayarlarınız kayıt edildi"
+
